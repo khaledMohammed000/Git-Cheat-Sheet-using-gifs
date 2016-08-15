@@ -10,4 +10,4 @@ and save them the trouble to ~~watch some video~~ or ~~read some blog~~
 
 ####Command 1
 
-![git init](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git-init.gif "command 1")
+![git init](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git-init.gif "command : git init")
