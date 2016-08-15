@@ -8,6 +8,6 @@ and save them the trouble to ~~watch some video~~ or ~~read some blog~~
 
 ###We will go through all the commands in the order we do it for our documents
 
-####Command 1
+####Command : git init
 
 ![git init](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git-init.gif "command : git init")
