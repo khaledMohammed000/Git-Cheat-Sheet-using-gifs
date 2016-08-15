@@ -14,15 +14,15 @@ and save them the trouble to ~~watch some video~~ or ~~read some blog~~
 
 ####Command : Creating a file to add adn then commit
 
-#####file creation
+⋅⋅* #####file creation
 
-![creating a file](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/creating%20a%20file%20for%20commit.gif "command : creating a file")
+ ![creating a file](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/creating%20a%20file%20for%20commit.gif "command : creating a file")
 
-####git status + git add
+⋅⋅* ####git status + git add
 
 ![git status + git add](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git%20status%20and%20git-add.gif "command : git status + git add")
 
-####git add + git commit
+⋅⋅* ####git add + git commit
 
 ![git add + git commit](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/Git-add%20and%20git-commit.gif "command : git add + git commit")
 
