@@ -9,19 +9,19 @@ and save them the trouble to ~~watch some video~~ or ~~read some blog~~
 ###We will go through all the commands in the order we do it for our documents
 
 #Contents :
-1.  [git clone](#git clone)
-2. [git init](#git init)
+1.  [git clone](#git-clone)
+2. [git init](#git-init)
 3. file creation using git bash
 4. git status + git add
 5. git add + git commit
 6. git log
 
 
-#Command : git clone
+#Command : git clone<a name="git-clone"></a>
 
 ![git clone](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git-clone.gif "command : git clone")
 
-#Command : git init
+#Command : git init<a name="git-init"></a>
 
 ![git init](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git-init.gif "command : git init")
 
