@@ -9,7 +9,7 @@ and save them the trouble to ~~watch some video~~ or ~~read some blog~~
 ###We will go through all the commands in the order we do it for our documents
 
 #Contents :
-1. git clone
+1. git clone [](#git clone)
 2. git init
 3. file creation using git bash
 4. git status + git add
