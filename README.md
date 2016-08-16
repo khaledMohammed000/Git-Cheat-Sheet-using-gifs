@@ -8,6 +8,14 @@ and save them the trouble to ~~watch some video~~ or ~~read some blog~~
 
 ###We will go through all the commands in the order we do it for our documents
 
+#Contents :
+1. git clone
+2. git init
+3. file creation using git bash
+4. git status + git add
+5. git add + git commit
+6. git log
+
 
 #Command : git clone
 
