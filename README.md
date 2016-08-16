@@ -8,11 +8,16 @@ and save them the trouble to ~~watch some video~~ or ~~read some blog~~
 
 ###We will go through all the commands in the order we do it for our documents
 
+
+#Command : git clone
+
+![git clone](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git-clone.gif "command : git clone")
+
 #Command : git init
 
 ![git init](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git-init.gif "command : git init")
 
-####Command : Creating a file to add adn then commit
+##Command : Creating a file to add adn then commit
 
 #file creation
 
@@ -21,7 +26,12 @@ and save them the trouble to ~~watch some video~~ or ~~read some blog~~
 #git status + git add
 
 ![git status + git add](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git%20status%20and%20git-add.gif "command : git status + git add")
+
 #git add + git commit
 
 ![git add + git commit](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/Git-add%20and%20git-commit.gif "command : git add + git commit")
+
+#git log
+
+![git log](https://github.com/khaledMohammed000/Git-Cheat-Sheet-using-gifs/blob/master/gifs/git-log.gif "command : git log")
 
